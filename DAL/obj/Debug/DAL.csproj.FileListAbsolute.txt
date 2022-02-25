@@ -1,0 +1,119 @@
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\DAL\obj\Debug\DAL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\DAL\bin\Debug\DAL.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\DAL\bin\Debug\DAL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\DAL\bin\Debug\Model.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\DAL\bin\Debug\Model.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\DAL\obj\Debug\DAL.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\DAL\obj\Debug\DAL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\DAL\bin\Debug\DAL.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\DAL\bin\Debug\DAL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\DAL\bin\Debug\Model.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\DAL\bin\Debug\Model.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\DAL\obj\Debug\DAL.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\DAL\obj\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\DAL\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\DAL\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\DAL\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\DAL\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\DAL\obj\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,15 @@
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Model\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Model\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Model\obj\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Model\obj\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Model\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Model\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Model\obj\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Model\obj\Debug\Model.pdb
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Model\bin\Debug\Model.dll
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Model\bin\Debug\Model.pdb
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Model\obj\Debug\Model.dll
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Model\obj\Debug\Model.pdb

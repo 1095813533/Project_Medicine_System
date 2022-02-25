@@ -1,0 +1,542 @@
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pharmacy_management.resources
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.admin.resources
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.doctor.resources
+D:\Visual Studio Project\ConsoleApplication1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.login.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 7.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\bin\Debug\Model.dll
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+D:\学校\大三上\医学信息系统\Medicine_System 8.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 9.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\10612\Desktop\Medicine_System 12.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 12.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 12.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\Asura\Desktop\Medicine_System 13.1\Medicine_System 13.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.2\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 13.4\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 13.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.0\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 14.1\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System 14.3\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System 最终版1.1\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\bin\Debug\Model.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.2\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\bin\Debug\Model.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+D:\学校\大三上\医学信息系统\Medicine_System最终版1.3\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\双蛋碎大石\Desktop\医学信息系统\Medicine_System最终版1.5\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.6\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版1.7\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\bin\Debug\Model.dll
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+D:\学校\大三上\医学信息系统\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\bin\Debug\Medicine_System.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\bin\Debug\BLL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\bin\Debug\Model.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\bin\Debug\DAL.dll
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\bin\Debug\BLL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\bin\Debug\Model.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\bin\Debug\DAL.pdb
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csprojResolveAssemblyReference.cache
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Admin.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Doctor_write.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Login.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Registration_system.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Payment.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Pharmacy_management.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.Properties.Resources.resources
+C:\Users\麻辣猪仔\Desktop\Medicine_System最终版2.1\Medicine_System\Medicine_System\obj\Debug\Medicine_System.csproj.GenerateResource.Cache
+E:\project\easy\Medicine_System\Medicine_System\bin\Debug\Medicine_System.exe.config
+E:\project\easy\Medicine_System\Medicine_System\obj\Debug\Medicine_System.exe
+E:\project\easy\Medicine_System\Medicine_System\obj\Debug\Medicine_System.pdb
