@@ -30,5 +30,6 @@ namespace BLL
         {
             new 病房DAL().出院(bingfangbinahao,keshibianhao,bingrenbianhao);
         }
+
     }
 }
